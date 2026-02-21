@@ -2,15 +2,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Spring-Mvc Crud</title>
+    <title>Employee List</title>
 </head>
 <body>
 
-<h2>Employee Crud</h2>
+<h2>Employee List</h2>
 
 <a href="${pageContext.request.contextPath}/new">Add Employee</a>
 
 <br/><br/>
+
 <table border="1" cellpadding="5">
     <tr>
         <th>ID</th>
